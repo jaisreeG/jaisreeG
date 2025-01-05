@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaisreeG
-- 👀 I’m interested in Coding, satellite communication and electronics
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Embedded Systems, coding, satellite communication and electronics.
+- 🌱 I’m currently learning VLSI and JAVA.
 - 📫 How to reach me jaisreeg.ece2023@citchennai.net
 
 <!---
